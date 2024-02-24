@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "title": "Producto 1",
+    "description": "Descripción del Producto 1",
+    "code": "ABC123",
+    "price": 19.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Producto 2",
+    "description": "Descripción del Producto 2",
+    "code": "DEF456",
+    "price": 29.99,
+    "status": false,
+    "stock": 50,
+    "category": "Hogar",
+    "thumbnails": [
+      ""
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Producto 3",
+    "description": "Descripción del Producto 3",
+    "code": "GHI789",
+    "price": 9.99,
+    "status": true,
+    "stock": 200,
+    "category": "Ropa",
+    "thumbnails": [
+      "",
+      ""
+    ]
+  }
+]
